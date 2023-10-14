@@ -2,7 +2,9 @@
 #### Web dev student
 Im currently studying web development at YRGO in Gothenburg Sweden.
 
-Worked with: REACT / JS / HTML / CSS / PHP 
+Languages: JS / HTML / CSS / PHP 
+
+Frameworks: REACT.js / Next.js / Sveltekit / Laravel / Wordpress
 
 
 #### Reach Me. 
