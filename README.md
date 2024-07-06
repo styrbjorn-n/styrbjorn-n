@@ -1,3 +1,3 @@
 ### Hi there 👋, Im Styrbjörn.
 #### Junior Web dev
-Im currently studying web development at YRGO in Gothenburg Sweden.
+Looking to learn and uninstall some skill issues
